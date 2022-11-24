@@ -31,4 +31,4 @@ class Member{
   
       Manager m = new Manager();
     }
-  }									
+  }	 							
